@@ -59,6 +59,3 @@ This repository will be updated with more certificates and achievements.
 
 ---
 
-## ⭐ If you like this repo
-
-Feel free to star ⭐ the repository!
